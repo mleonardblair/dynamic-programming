@@ -14,7 +14,7 @@ _(Will add up to 50 problems as I complete them.)_
 
 ## Why Dynamic Programming?
 
-Dynamic Programming is a fundamental technique used to solve problems that can be broken down into overlapping subproblems with optimal substructure. Mastery of DP is essential for success in technical interviews and real-world algorithmic problem-solving.
+Dynamic Programming is a fundamental technique used to solve problems that can be broken down into overlapping subproblems. Mastery of DP is useful for success in technical interviews and real-world algorithmic problem-solving.
 
 Common patterns include:
 - Memoization
